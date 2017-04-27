@@ -184,7 +184,7 @@ $error_message = "<small class=\"error\">".form_error($captcha['name'])."</small
 				</div>
 
 		    <div style=margin-top:10px;>
-		        &copy; <?php echo date("Y");?> by Young Jun "John" Kim
+		        &copy; <?php echo date("Y");?> by wisadev.com
 		    </div>
 
 			</div>
