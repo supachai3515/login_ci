@@ -8,7 +8,7 @@
 |--------------------------------------------------------------------------
 */
 $config['website_name'] = 'Codeigniter Facebook Google Login';
-$config['webmaster_email'] = 'yj0109@gmail.com';
+$config['webmaster_email'] = 'supachai.wi@gmail.com';
 
 /*
 |--------------------------------------------------------------------------
